@@ -1,6 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-curl -sd '{"address": "436264eda2e895e28a7dde3d79a9327ecf96c2dd", "amount": 1000000000000000000}'
-name: CI
+http://api.blockcypher.com/v1/btc/main?token=$c5d2b263e992411e8a4888d2ffdd032f
 
 # Controls when the workflow will run
 on:
